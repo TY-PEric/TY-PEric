@@ -1,4 +1,4 @@
-# Hi, I'm Eric Pang (Yuk Shing Pang)!
+# Hi, I'm Eric Pang (Yuk Shing Pang)
 
 I'm a first-year undergraduate student at the **University of Toronto**, majoring in **Computer Science and Statistics**. I am passionate about data analysis, machine learning, and robotics.
 
