@@ -7,7 +7,7 @@ I'm a first-year undergraduate student at the **University of Toronto**, majorin
 * **Tools:** Git, Jupyter Notebook, LaTeX, Google Colaboratory
 
 ### Featured Projects
-* [**Sign Language Recognition Model**](https://github.com/TY-PEric/Sign-Language-Recognition-ResNet) - Skeleton-based action recognition model (SL-GCN & SSTCN) with 95.45% accuracy, developed during the Yuanpei Young Scholars (YSA) Computer Vision program.
+* [**Sign Language Recognition Model**](https://github.com/TY-PEric/YuanPei_Young_Scholar_Program) - Skeleton-based action recognition model (SL-GCN & SSTCN) with 95.45% accuracy, developed during the Yuanpei Young Scholars (YSA) Computer Vision program.
 * [**Global Sports League Scheduling Optimization**](https://github.com/TY-PEric/IMMC-Global-Sports-Scheduling-Optimization) - **Global Finalist (IMMC)**. Multi-objective optimization model utilizing Genetic Algorithms and Monte Carlo simulations to design an international sports schedule. Invited to Hong Kong for the final live defense.
 * [**Emerging Career Trajectories Evaluation**](https://github.com/TY-PEric/IMMC-Career-Prospect-Predictive-Model) - **IMMC Qualification**. Quantitative evaluation model using AHP and TOPSIS frameworks to assess short-term viability and 10-year development trends of new professions in the labor market.
 * [**HPC Environmental Impact & Carbon Emissions**](https://github.com/TY-PEric/HiMCM-Data-Center-Carbon-Emissions) - **Honorable Mention (HiMCM)**. Component-level energy and Life-Cycle Assessment (LCA) predictive model leveraging grey system data smoothing to track data center carbon footprints.
