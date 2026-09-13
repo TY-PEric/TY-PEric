@@ -4,7 +4,7 @@ I'm a first-year undergraduate student at the **University of Toronto**, majorin
 
 **Skills**
 *   **Languages:** Python, C++, Java
-*   **Tools:** Git, Jupyter Notebook, LaTeX
+*   **Tools:** Git, Jupyter Notebook, LaTeX， Google Colaboratory
 
 **Currently Learning & Doing**
 *   Diving deep into Python algorithms in `CSC110`.
