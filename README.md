@@ -14,7 +14,7 @@ I'm a first-year undergraduate student at the **University of Toronto**, majorin
 
 ### Currently Learning & Doing
 * Diving deep into Python algorithms in `CSC110`.
-* Exploring statistical data analysis and visualization in `STA130`.
+* Exploring R, statistical data analysis and visualization in `STA130`.
 * Studying Linear Algebra in `MAT223`.
 * Actively seeking Work-Study or Research Assistant (RA) opportunities in data science.
 
