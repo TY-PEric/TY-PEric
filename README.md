@@ -3,7 +3,7 @@
 I'm a first-year undergraduate student at the **University of Toronto**, majoring in **Computer Science and Statistics**. I am passionate about data analysis, machine learning, and robotics.
 
 ### Technical Skills
-* **Languages:** Python, C++, Java
+* **Languages:** Python, C++, Java, R
 * **Tools:** Git, Jupyter Notebook, LaTeX, Google Colaboratory
 
 ### Featured Projects
