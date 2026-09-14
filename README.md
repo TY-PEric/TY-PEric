@@ -20,4 +20,4 @@ I'm a first-year undergraduate student at the **University of Toronto**, majorin
 
 ### Connect
 * Email: yukshing.pang@mail.utoronto.ca
-* LinkedIn: [www.linkedin.com/in/yuk-shing-pang-b04b8b435](https://www.linkedin.com/in/yuk-shing-pang-b04b8b435)
+* LinkedIn: [www.linkedin.com/in/yuk-shing-pang-b04b8b435](https://www.linkedin.com/in/yukshingpang/)
