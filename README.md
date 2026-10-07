@@ -15,7 +15,7 @@ First-year student at the **University of Toronto (St. George)**, admitted to Co
 * **Tools:** Git, LaTeX, Excel, Google Colab
 
 ### This term
-* `CSC110` Foundations of Computer Science, `STA130` statistical reasoning and data science in R, `MAT223` linear algebra
+* `CSC110` Foundations of Computer Science, `STA130` Statistical reasoning and data science in R, `MAT223` Linear algebra, `MAT148` Calculus with Proofs
 * Looking for Work-Study, research assistant, and data analyst roles
 
 ### Contact
